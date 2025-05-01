@@ -1,6 +1,3 @@
-# RD-UIE
-RD-UIE: Relation-Driven State Space Modeling for Underwater  Image Enhancement
-
 **This repository is currently under preparation.**  
 The corresponding paper is under review.
 
